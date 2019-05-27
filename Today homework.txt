@@ -1,0 +1,8 @@
+1. JDK 1.8 설치
+2. GIT 설치 (CONFIG ID, EMAIL 이어서 할것)
+3. GITHUB에서의 주소를 git clone URL(주소) TIL로 가져오기
+4. 수정작업
+5. git push로 다시 업로드 할것.
+
+
+ 
